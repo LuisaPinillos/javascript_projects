@@ -1,0 +1,27 @@
+{
+  "name": "session-01-introduction_project",
+  "version": "1.0.0",
+  "description": "my first project with node",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisaPinillos/javascript_projects.git"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "javascript",
+    "node",
+    "js"
+  ],
+  "author": "Luisa F. Pinillos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisaPinillos/javascript_projects/issues"
+  },
+  "homepage": "https://github.com/LuisaPinillos/javascript_projects#readme"
+}
